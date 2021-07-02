@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "948600092388",
+    "firebase_url": "https://sharestuff-9454b-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "sharestuff-9454b",
+    "storage_bucket": "sharestuff-9454b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948600092388:android:fe6afda50d175a649d5ef1",
+        "android_client_info": {
+          "package_name": "com.example.shop_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "948600092388-7tfel3iv8a85756irklu884daecd3hqs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDc6Zb3qlnM3a3QPbJvoWenvc6KspyOxV4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "948600092388-7tfel3iv8a85756irklu884daecd3hqs.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "948600092388-m4he3633768avdssrm4nmfl028i66bae.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "thealphamerc.flutterLoginSignup"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
