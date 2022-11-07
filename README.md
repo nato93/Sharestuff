@@ -3,5 +3,7 @@ In which there has been slight modification and integrations of Firebase Realtim
 
 
 
+Check out the showcase at this link:
+
 https://www.youtube.com/watch?v=1urUfxlGujI
 
